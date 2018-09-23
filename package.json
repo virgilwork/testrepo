@@ -1,0 +1,22 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "Testing repositroy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgilwork/testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgilwork/testrepo/issues"
+  },
+  "homepage": "https://github.com/virgilwork/testrepo#readme",
+  "dependencies": {
+    "angular": "^1.7.4"
+  }
+}
